@@ -1,0 +1,152 @@
+#para1{
+    text-align: center;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0% 10% 10px;
+    height: 30px;
+    background-color:royalblue;
+    clear: both;
+}
+#parrafo2{
+    text-align: center;
+    color: black;
+    font-size: 21px;
+}
+#p1{
+    text-decoration: underline;
+    text-align: center;
+    color: black;
+}
+#p2{
+    text-emphasis: initial;
+    text-align: center;
+    color: white;
+    font-style: initial;
+}
+.center{
+    text-align: center;
+    color: rgb(0, 95, 75);
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+}
+.miestilo{
+    background-color: greenyellow;
+    font-size: 25px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    color: blue;
+}
+.menu li{
+    list-style: none;
+    color: black;
+    display: inline-table;
+    background-color: silver;
+    margin: 0 50px;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+}
+#encabezado{
+    color: white;
+    border-radius: 20px;
+    width: 97%;
+    text-align: center;
+    font-size: larger;
+    background-image: url(../selva.webp);
+    background-size: auto;
+    background-position: center;
+    padding: 20px 20px 20px 20px;
+}
+body{
+    background-image: url(../tr.jpg);
+}
+#p3{
+    text-align: center;
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0% 10% 10px;
+    height: 50px;
+    background-color:skyblue;
+    clear: both;
+}
+#p4{
+    text-align: center;
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0% 10% 10px;
+    height: 40px;
+    background-color:skyblue;
+    clear: both;
+}
+
+#piePagina{
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    width: 100%;
+    height: fit-content;
+    background-color:hotpink;
+    clear: both;
+}
+
+#seccion1{
+    float: left;
+    width: 38%;
+    height: 300px;
+    margin: 0 0 0 10%;
+    background-color: blueviolet;
+    padding: 10px 10px 10px 10px;
+}
+#seccion2{
+    float: left;
+    width: 38%;
+    height: 300px;
+    margin: 0 9% 0 0;
+    background-color: rgba(255, 251, 0, 0.945);
+    padding: 10px 10px 10px 10px;
+}
+#encabezado1{
+    color: white;
+    border-radius: 20px;
+    width: 80%;
+    text-align: center;
+    font-size: larger;
+    background-image: url(../11.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 20px 20px 20px 20px;
+}
+#encabezado2{
+    color: white;
+    border-radius: 20px;
+    width: 80%;
+    margin-left: 60px;
+    text-align: center;
+    font-size: larger;
+    background-image: url(../11.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 20px 20px 20px 20px;
+}
+h4{
+font-size: 55px;
+color: aliceblue;
+}
+#fig{
+    font-size: larger;
+    color: whitesmoke;
+}
+h1{
+    font-size: 33px;
+    color: white;
+}
+#hiper{
+    font-size: 22px;
+    color: blue;
+}
